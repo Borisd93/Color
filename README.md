@@ -8,15 +8,15 @@ del color según su hex y otras.
 <br> </br>
 <hr>
 <h1>Ejemplos</h1>
-Declarando la clase color:
+<h1>Declarando la clase color:</h1>
 <br></br>
 color1=color.Color("#FFFFFF") #o FFFFFF
 <br></br>
-Invirtiendo color:
+<h1>Invirtiendo color:</h1>
 <br></br>
 color1.invert()
 <br></br>
-Obteniendo el nombre
+<h1>Obteniendo el nombre</h1>
 <br></br>
 col_name=color1.return_color_name()
 
